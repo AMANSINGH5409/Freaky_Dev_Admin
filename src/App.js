@@ -19,7 +19,7 @@ function App() {
 
   return (
     <div className={darkMode ? "app dark" : "app"}>
-      <BrowserRouter>
+      <BrowserRouter basename="/Freaky_Dev_Admin">
         <Routes>
           <Route path="/">
             <Route index element={<Home/>}/>
