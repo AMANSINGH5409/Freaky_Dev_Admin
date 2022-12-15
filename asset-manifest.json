@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Freaky_Dev_Admin/static/css/main.d2e6ff8c.css",
+    "main.js": "/Freaky_Dev_Admin/static/js/main.e5fdcec0.js",
+    "index.html": "/Freaky_Dev_Admin/index.html",
+    "main.d2e6ff8c.css.map": "/Freaky_Dev_Admin/static/css/main.d2e6ff8c.css.map",
+    "main.e5fdcec0.js.map": "/Freaky_Dev_Admin/static/js/main.e5fdcec0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2e6ff8c.css",
+    "static/js/main.e5fdcec0.js"
+  ]
+}
